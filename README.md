@@ -1,1 +1,1 @@
-A production ready event manager app that makes creating, updating and tracking events seamless for volunteer management groups. Built using the MVC, or the Model-View-Controller Architechture
+A production ready event manager app that makes creating, updating and tracking events seamless for volunteer management groups. Built using the MVC, or the Model-View-Controller Architechture using React.js, Node.js, Express and MongoDB this is the only solution for complex data storage and visualization.
